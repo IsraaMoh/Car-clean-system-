@@ -1,0 +1,159 @@
+Welcome to the FCIT Car Clean Simulator
+
+**********
+Day 1:
+**********
+
+10:15 AM:  Abdurrahman Altalhi arrived at the FCIT Car Clean and immediately started Class WWV service.
+10:20 AM:  Iyad Katib arrived at the FCIT Car Clean and entered Wash Queue.
+10:38 AM:  The car for Abdurrahman Altalhi is now finished.
+           Waiting time in line: 0 minutes
+           Service time: 23 minutes
+           Total time: 23 minutes
+10:38 AM:  Iyad Katib has now started Class WWV service.
+10:40 AM:  Aiiad Albishri arrived at the FCIT Car Clean and entered Wash Queue.
+10:55 AM:  Jonathan Cazalas arrived at the FCIT Car Clean and entered Wash Queue.
+11:01 AM:  The car for Iyad Katib is now finished.
+           Waiting time in line: 18 minutes
+           Service time: 23 minutes
+           Total time: 41 minutes
+11:01 AM:  Aiiad Albishri has now started Class WWV service.
+11:24 AM:  The car for Aiiad Albishri is now finished.
+           Waiting time in line: 21 minutes
+           Service time: 23 minutes
+           Total time: 44 minutes
+11:24 AM:  Jonathan Cazalas has now started Class W service.
+11:34 AM:  The car for Jonathan Cazalas is now finished.
+           Waiting time in line: 29 minutes
+           Service time: 10 minutes
+           Total time: 39 minutes
+3:59 PM:  First1 Last1 arrived at the FCIT Car Clean and immediately started Class WWV service.
+3:59 PM:  First2 Last2 arrived at the FCIT Car Clean and entered Wash Queue.
+3:59 PM:  First3 Last3 arrived at the FCIT Car Clean and entered Wash Queue.
+3:59 PM:  First4 Last4 arrived at the FCIT Car Clean and entered Wash Queue.
+3:59 PM:  First5 Last5 arrived at the FCIT Car Clean and entered Wash Queue.
+3:59 PM:  First6 Last6 arrived at the FCIT Car Clean and entered Wash Queue.
+3:59 PM:  First7 Last7 arrived at the FCIT Car Clean. Unfortunately, the Wash Queue is full, and the customer left disappointed. 
+4:00 PM:  First8 Last8 arrived at the FCIT Car Clean. However, the car wash is CLOSED.
+4:22 PM:  The car for First1 Last1 is now finished.
+           Waiting time in line: 0 minutes
+           Service time: 23 minutes
+           Total time: 23 minutes
+4:22 PM:  First2 Last2 has now started Class WWV service.
+4:45 PM:  The car for First2 Last2 is now finished.
+           Waiting time in line: 23 minutes
+           Service time: 23 minutes
+           Total time: 46 minutes
+4:45 PM:  First3 Last3 has now started Class WWV service.
+5:08 PM:  The car for First3 Last3 is now finished.
+           Waiting time in line: 46 minutes
+           Service time: 23 minutes
+           Total time: 69 minutes
+5:08 PM:  First4 Last4 has now started Class WWV service.
+5:31 PM:  The car for First4 Last4 is now finished.
+           Waiting time in line: 69 minutes
+           Service time: 23 minutes
+           Total time: 92 minutes
+5:31 PM:  First5 Last5 has now started Class WWV service.
+5:54 PM:  The car for First5 Last5 is now finished.
+           Waiting time in line: 92 minutes
+           Service time: 23 minutes
+           Total time: 115 minutes
+5:54 PM:  First6 Last6 has now started Class WWV service.
+6:17 PM:  The car for First6 Last6 is now finished.
+           Waiting time in line: 115 minutes
+           Service time: 23 minutes
+           Total time: 138 minutes
+6:18 PM:  Mr Nabeel came and collected the following vouchers:
+           First6 Last6(1111116)
+           First5 Last5(1111115)
+           First4 Last4(1111114)
+           First3 Last3(1111113)
+           First2 Last2(1111112)
+           First1 Last1(1111111)
+           Jonathan Cazalas(1117774)
+           Aiiad Albishri(1117773)
+           Iyad Katib(1117772)
+           Abdurrahman Altalhi(1117771)
+**********
+Day 2:
+**********
+
+10:05 AM:  Rayyan Alharthi arrived at the FCIT Car Clean and immediately started Class W service.
+10:05 AM:  Bilal Damanhouri arrived at the FCIT Car Clean and entered Wash Queue.
+10:07 AM:  Yazeed Jam’aan arrived at the FCIT Car Clean and entered Wash Queue.
+10:12 AM:  Khalid Barnawi arrived at the FCIT Car Clean and entered Wash Queue.
+10:12 AM:  Elyas Zubaidi arrived at the FCIT Car Clean and entered Wash Queue.
+10:13 AM:  The car for Rayyan Alharthi is now finished.
+           Waiting time in line: 0 minutes
+           Service time: 8 minutes
+           Total time: 8 minutes
+10:13 AM:  Bilal Damanhouri has now started Class W service.
+10:13 AM:  Abdulmajeed Zahrani arrived at the FCIT Car Clean and entered Wash Queue.
+10:14 AM:  Ali Alghamdi arrived at the FCIT Car Clean and entered Wash Queue.
+10:18 AM:  Hammaam Ashihiri arrived at the FCIT Car Clean. Unfortunately, the Wash Queue is full, and the customer left disappointed. 
+10:20 AM:  Muhammad Alhaamdi arrived at the FCIT Car Clean. Unfortunately, the Wash Queue is full, and the customer left disappointed. 
+10:21 AM:  The car for Bilal Damanhouri is now finished.
+           Waiting time in line: 8 minutes
+           Service time: 8 minutes
+           Total time: 16 minutes
+10:21 AM:  Yazeed Jam’aan has now started Class W service.
+10:25 AM:  Fahad Alaydarous arrived at the FCIT Car Clean and entered Wash Queue.
+10:29 AM:  The car for Yazeed Jam’aan is now finished.
+           Waiting time in line: 14 minutes
+           Service time: 8 minutes
+           Total time: 22 minutes
+10:29 AM:  Khalid Barnawi has now started Class WWV service.
+10:32 AM:  Mr Nabeel came and collected the following vouchers:
+           Khalid Barnawi(1112195)
+           Yazeed Jam’aan(1113215)
+           Bilal Damanhouri(1112395)
+           Rayyan Alharthi(1112389)
+10:47 AM:  The car for Khalid Barnawi is now finished.
+           Waiting time in line: 17 minutes
+           Service time: 18 minutes
+           Total time: 35 minutes
+10:47 AM:  Elyas Zubaidi has now started Class W service.
+10:50 AM:  Ibraheem Jahlaan arrived at the FCIT Car Clean and entered Wash Queue.
+10:55 AM:  The car for Elyas Zubaidi is now finished.
+           Waiting time in line: 35 minutes
+           Service time: 8 minutes
+           Total time: 43 minutes
+10:55 AM:  Abdulmajeed Zahrani has now started Class W service.
+11:03 AM:  The car for Abdulmajeed Zahrani is now finished.
+           Waiting time in line: 42 minutes
+           Service time: 8 minutes
+           Total time: 50 minutes
+11:03 AM:  Ali Alghamdi has now started Class W service.
+11:11 AM:  The car for Ali Alghamdi is now finished.
+           Waiting time in line: 49 minutes
+           Service time: 8 minutes
+           Total time: 57 minutes
+11:11 AM:  Fahad Alaydarous has now started Class W service.
+11:19 AM:  The car for Fahad Alaydarous is now finished.
+           Waiting time in line: 46 minutes
+           Service time: 8 minutes
+           Total time: 54 minutes
+11:19 AM:  Ibraheem Jahlaan has now started Class W service.
+11:27 AM:  The car for Ibraheem Jahlaan is now finished.
+           Waiting time in line: 29 minutes
+           Service time: 8 minutes
+           Total time: 37 minutes
+11:40 AM:  Wajdi Alasmari arrived at the FCIT Car Clean and immediately started Class W service.
+11:48 AM:  The car for Wajdi Alasmari is now finished.
+           Waiting time in line: 0 minutes
+           Service time: 8 minutes
+           Total time: 8 minutes
+12:00 PM:  Saalih Subhee arrived at the FCIT Car Clean and immediately started Class WW service.
+12:14 PM:  The car for Saalih Subhee is now finished.
+           Waiting time in line: 0 minutes
+           Service time: 14 minutes
+           Total time: 14 minutes
+4:00 PM:  Mr Nabeel came and collected the following vouchers:
+           Saalih Subhee(1114084)
+           Wajdi Alasmari(1113193)
+           Ibraheem Jahlaan(1118987)
+           Fahad Alaydarous(1114182)
+           Ali Alghamdi(1117515)
+           Abdulmajeed Zahrani(1116428)
+           Elyas Zubaidi(1119851)
